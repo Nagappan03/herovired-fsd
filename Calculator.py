@@ -1,6 +1,6 @@
 def console():
-    print("Welcome to our calculator application!!")
-    print("----------------------------------------")
+    print("Welcome to our calculator application!")
+    print("--------------------------------------")
     print("1. Factorial")
     print("2. Palindrome")
     print("3. Fibonacci")
